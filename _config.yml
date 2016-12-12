@@ -71,7 +71,7 @@ deploy:
   type: git
   repo: git@github.com:Shineee/shineee.github.io.git
   branch: master
-  message: 0.1.4.20160824_release
+  message: 0.1.5.20161212_release
 feed:
   type: atom
   path: atom.xml
